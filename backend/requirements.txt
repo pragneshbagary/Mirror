@@ -1,0 +1,9 @@
+Flask
+opencv-python
+tensorflow
+Keras
+numpy
+google-cloud-speech
+google-cloud-vision
+pyaudio
+six
